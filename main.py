@@ -37,6 +37,8 @@ print(grouped)
 # identify any partens or interesting findings
 print("\nInsight:")
 print("From the grouped data, you can see how each species differs in sepal and petal measurements.")
+# "For example, Setosa has the smallest petal length and width, while Virginica has the largest."
+# "These differences can be useful for classification tasks."
 
 
 # Task 3: Data Visualization
